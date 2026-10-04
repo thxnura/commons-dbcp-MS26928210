@@ -18,6 +18,9 @@ package org.apache.commons.dbcp2;
 
 /**
  * Constants.
+ * <p>
+ * Modified by Thanura Manjitha Peiris (MS26928210) for IT5080 Lab 5.
+ * </p>
  *
  * @since 2.0
  */
